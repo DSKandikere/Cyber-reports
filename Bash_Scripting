@@ -1,0 +1,19 @@
+# Bash & Shell Scripting Fundamentals for Cybersecurity Automation
+## Date: 10 February 2026
+
+Objective / Problem Statement
+
+The objective of this lab was to understand and implement Bash scripting fundamentals for Linux environments.
+In cybersecurity, automation is critical for:
+Log analysis
+System monitoring
+Malware triage
+Bulk scanning
+Red Team enumeration scripts
+
+This project focused on learning how to:
+Write and execute .sh script files
+Use variables and user input
+Implement conditional logic
+Use looping statements
+Manage execution permissions using chmod
