@@ -23,7 +23,7 @@ Dsu mxow vj: pvncNDM{5YH5717Y710G_3I0XY710G_03055505}
 As we can see the contents of the file, the last line in the file contains an encrypted flag.
 Considering this is a substitution cipher problem, we need to find out what type of substitution is performed on the message.txt file. How to find that ?
 
-The very firs line in the file:
+The very first line in the file:
 ```
 OHNFUMWSVZLXEGCPTAJDYIRKQB 
 ```
@@ -41,5 +41,5 @@ A few observations that needs to be considered are as follows:
 - It is a permutation of A–Z.
 So the first line is most likely the actual substitution key needed to decrypt the ciphertext below it.
 
-On using online tool such as cyberchef,
+On using online tool such as cyberchef, the obtained flag is;
 ## Flag = PICOCTF{5UB5717U710N_3V0LU710N_03055505}
