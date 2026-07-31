@@ -1,0 +1,10 @@
+services:
+  chal:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 1337:1337
+    environment:
+      - FLAG=MetaCTF{Fake_Flag_For_Testing}
+    restart: always
