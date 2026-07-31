@@ -6,10 +6,9 @@
 - CTF: Flash CTF – July 2026
 
 # Challenge Description
-```
-Every message that leaves the courier's office carries his personal seal, a mark he swears is impossible to forge.
+> Every message that leaves the courier's office carries his personal seal, a mark he swears is impossible to forge.
 He's confident nobody could ever imitate his hand, but is he right?
-```
+
 The server provides an ECDSA signing service. It allows:
 - Viewing the public key.
 - Getting a message signed.
