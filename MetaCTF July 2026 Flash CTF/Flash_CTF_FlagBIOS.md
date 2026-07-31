@@ -6,9 +6,9 @@
 - CTF: Flash CTF – July 2026
 
 # Challenge Description
-```
-We've been seeing some weird NetBIOS name registrations recently, can you figure out what "hostnames" these workstations have?
 
+> We've been seeing some weird NetBIOS name registrations recently, can you figure out what "hostnames" these workstations have?
+```
 FDGLGJGMGMECGJHEHLGODDHEGCGJDAAA
 
 HDFPGEGDDAGEGFFPHEDAFPHHDBGOHNAA
