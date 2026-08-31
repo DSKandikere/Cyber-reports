@@ -92,7 +92,7 @@ On visiting Oliver Woodflint Blog we find that he is in New York for holidays.
 
 I viewed the source code of the blog page and found something which seemed like a password.
 
-We were not able to view the password in the page because the text colour was set to white, which blened within the background.
+We were not able to view the password in the page because the text colour was set to white, which blended within the background.
 
 ![Screenshot](password.png)
 
